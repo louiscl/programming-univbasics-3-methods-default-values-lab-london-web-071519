@@ -6,3 +6,5 @@ veg1
 veg2
 protein
 end
+
+meal_choice()
